@@ -19,7 +19,7 @@
   "homepage": "https://github.com/spaden/github_actions_sample#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "supertest": "^4.0.2"
   }
 }
